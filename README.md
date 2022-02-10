@@ -1,16 +1,26 @@
-### Hi there 👋
+### Yoooo! 👋
 
-<!--
-**rgab1508/rgab1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`
+i code.
+`
+##### LIKES
+- 🏐 Volleyball
+- 👾 Anime 
+- 🎮 Gaming
+- 🎥 TV shows & Movies
+- ✨ JS & Python
 
-Here are some ideas to get you started:
+##### DISLIKES
+- 🧊 PHP
+- ☕ JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### REACH ME
+- 🐳 Discord : `mido#8877`
+
+##### STATS
+<a href="https://github.com/rgabr1508">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rgab1508&count_private=true&show_icons=true&theme=aura" />
+</a>
+<a href="https://github.com/rgab1508">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=aura&langs_count=8&count_private=true" />
+</a>
