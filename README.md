@@ -11,7 +11,6 @@ i code.
 - ✨ JS & Python
 
 ##### DISLIKES
-- 🧊 PHP
 - ☕ JAVA
 
 ##### REACH ME
