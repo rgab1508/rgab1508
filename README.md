@@ -17,7 +17,7 @@ i code.
 - 🐳 Discord : `mido#8877`
 
 ##### STATS
-<a href="https://github.com/rgabr1508">
+<a href="https://github.com/rgabr508">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rgab1508&count_private=true&show_icons=true&theme=aura" />
 </a>
 <a href="https://github.com/rgab1508">
