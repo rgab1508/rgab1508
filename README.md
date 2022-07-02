@@ -10,9 +10,6 @@ i code.
 - 🎥 TV shows & Movies
 - ✨ JS & Python
 
-##### DISLIKES
-- ☕ JAVA
-
 ##### REACH ME
 - 🐳 Discord : `mido#8877`
 
