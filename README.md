@@ -8,7 +8,6 @@ i code.
 - 👾 Anime 
 - 🎮 Gaming
 - 🎥 TV shows & Movies
-- ✨ JS & Python
 
 ##### REACH ME
 - 🐳 Discord : `mido#8877`
